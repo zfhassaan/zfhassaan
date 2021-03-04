@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning ... React JS
 - 💬 Ask me about ... PHP / Laravel
 - 📫 How to reach me: ... zfhassaan@gmail.com
-- 😄 Pronouns: ... him/her
 
 
 <!--
