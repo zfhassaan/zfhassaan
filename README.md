@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on ... React JS
 - 🌱 I’m currently learning ... React JS
-- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... PHP / Laravel
 - 📫 How to reach me: ... zfhassaan@gmail.com
 - 😄 Pronouns: ... him/her
