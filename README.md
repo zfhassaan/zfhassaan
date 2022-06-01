@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... React JS
+- 🔭 I’m currently working on ... Laravel / React JS
 - 🌱 I’m currently learning ... React JS
 - 💬 Ask me about ... PHP / Laravel
 - 📫 How to reach me: ... zfhassaan@gmail.com
