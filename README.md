@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Laravel / React JS
-- 🌱 I’m currently learning ... React JS
-- 💬 Ask me about ... PHP / Laravel
+- 🔭 I’m currently working on ... Laravel / Vue JS
+- 🌱 I’m currently learning ... Go
+- 💬 Ask me about ... PHP / Laravel / Vue js ? Nuxt js / React js
 - 📫 How to reach me: ... zfhassaan@gmail.com
 
 
